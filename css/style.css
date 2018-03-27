@@ -47,6 +47,11 @@ p {
 .b2 {
   margin-left: 4px;
 }
+
+#myWork {
+  padding-bottom: 15px;
+}
+
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
   color: #D9B310;
 }
@@ -121,12 +126,6 @@ ul .double{
   }
   .mainheader {
     font-size: 2rem;
-  }
-  .center .right-align{
-    margin: 0px;
-    margin-left: 0px;
-    left: 0px;
-    right: 0px;
   }
 }
 
