@@ -11,6 +11,10 @@ p {
   filter: brightness(50%);
 }
 
+.btn-large {
+  padding-bottom: 15px;
+}
+
 .goldtxt {
   color: #D9B310;
 }
@@ -83,7 +87,7 @@ ul .double{
 }
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 250px;
   line-height: 0;
   height: auto;
   background-color: rgba(0, 106, 255, 0.3);
