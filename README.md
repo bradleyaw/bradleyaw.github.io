@@ -2,4 +2,4 @@
 
 My portfolio.
 
-bradleyaw.github.io
+https://bradleyaw.github.io/
