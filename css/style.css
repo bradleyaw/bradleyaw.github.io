@@ -117,17 +117,19 @@ ul .double{
   }
   .parallax-container .section {
     position: absolute;
-    top: 40%;
+    top: 30%;
   }
+
   #index-banner .section {
-    top: 10%;
+    top: -5%;
   }
 }
 
 @media only screen and (max-width : 600px) {
   #index-banner .section {
-    top: 0;
+    top: -5%;
   }
+  
   .mainheader {
     font-size: 2rem;
   }
