@@ -21,6 +21,9 @@ p {
 .goldbg{
   background-color: #D9B310;
 }
+.goldbgNH{
+  background-color: #D9B310;
+}
 .goldbg:hover { 
   background-color: rgb(203, 168, 16);
 }
@@ -33,6 +36,9 @@ p {
 .bluebg{
   background-color: #0B3C5D;
 }
+.bluebgNH{
+  background-color: #0B3C5D;
+}
 .bluebg:hover { 
   background-color: rgb(10, 68, 105);
 }
@@ -40,6 +46,9 @@ p {
   color: #1D2731;
 }
 .blackbg{
+  background-color: #1D2731;
+}
+.blackbgNH{
   background-color: #1D2731;
 }
 .blackbg:hover{
@@ -51,6 +60,14 @@ p {
 .b2 {
   margin-left: 4px;
 }
+
+.keyItem {
+  padding: 7px;
+}
+
+.whiteTxt {
+  color: white;
+ }
 
 #portfolio {
   padding-bottom: 15px;
