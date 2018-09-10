@@ -152,13 +152,12 @@ ul .double{
   }
 }
 
-
-
 footer.page-footer {
   margin: 0;
 }
 
 @media only screen and (max-width : 468px) {
+
   .header {
     font-size: 1.2rem;
 
